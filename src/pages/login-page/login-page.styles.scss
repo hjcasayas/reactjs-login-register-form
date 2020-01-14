@@ -1,0 +1,21 @@
+.login-page {
+  width: 100%;
+  min-height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &__card {
+    width: 400px;
+
+    &__header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    &__arrow-left {
+      margin-right: 0.4rem;
+    }
+  }
+}
