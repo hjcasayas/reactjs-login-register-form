@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/reactjs-login-register-form/static/css/main.fd04296b.chunk.css",
+    "main.js": "/reactjs-login-register-form/static/js/main.3d2b7eea.chunk.js",
+    "main.js.map": "/reactjs-login-register-form/static/js/main.3d2b7eea.chunk.js.map",
+    "runtime-main.js": "/reactjs-login-register-form/static/js/runtime-main.d1569eef.js",
+    "runtime-main.js.map": "/reactjs-login-register-form/static/js/runtime-main.d1569eef.js.map",
+    "static/css/2.624e4bf4.chunk.css": "/reactjs-login-register-form/static/css/2.624e4bf4.chunk.css",
+    "static/js/2.99fc6b9f.chunk.js": "/reactjs-login-register-form/static/js/2.99fc6b9f.chunk.js",
+    "static/js/2.99fc6b9f.chunk.js.map": "/reactjs-login-register-form/static/js/2.99fc6b9f.chunk.js.map",
+    "index.html": "/reactjs-login-register-form/index.html",
+    "precache-manifest.cdba9a5f6cf363ba031a0bedd2ff8f44.js": "/reactjs-login-register-form/precache-manifest.cdba9a5f6cf363ba031a0bedd2ff8f44.js",
+    "service-worker.js": "/reactjs-login-register-form/service-worker.js",
+    "static/css/2.624e4bf4.chunk.css.map": "/reactjs-login-register-form/static/css/2.624e4bf4.chunk.css.map",
+    "static/css/main.fd04296b.chunk.css.map": "/reactjs-login-register-form/static/css/main.fd04296b.chunk.css.map",
+    "static/js/2.99fc6b9f.chunk.js.LICENSE": "/reactjs-login-register-form/static/js/2.99fc6b9f.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1569eef.js",
+    "static/css/2.624e4bf4.chunk.css",
+    "static/js/2.99fc6b9f.chunk.js",
+    "static/css/main.fd04296b.chunk.css",
+    "static/js/main.3d2b7eea.chunk.js"
+  ]
+}
