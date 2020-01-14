@@ -13,7 +13,10 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.3.0"
   },
+  "homepage": "http://hjcasayas.github.io/reactjs-login-register-form",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -33,5 +36,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.2.0"
   }
 }
